@@ -1,2 +1,1 @@
-# text-generation
-Text Generation
+# Text Generation

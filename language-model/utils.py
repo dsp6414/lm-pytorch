@@ -20,7 +20,7 @@ def load_vocab(filename):
     vocab = {}
     fo = open(filename)
     for line in fo:
-        line = line.strip()
+        line = line.strip("\n")
         vocab[line] = len(vocab)
     fo.close()
     return vocab

@@ -12,7 +12,7 @@ def tokenize(x, unit):
     x = normalize(x)
     if unit == "char":
         return list(x)
-    elif unit == "word":
+    if unit == "word":
         return x.split(" ")
 
 def load_vocab(filename):

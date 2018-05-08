@@ -62,6 +62,6 @@ def predict():
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
-        sys.exit("Usage: %s model vocab test_data" % sys.argv[0])
+        sys.exit("Usage: %s model vocab seed" % sys.argv[0])
     print("cuda: %s" % CUDA)
     predict()

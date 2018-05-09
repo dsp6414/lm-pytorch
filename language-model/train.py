@@ -14,7 +14,7 @@ def load_data():
     fo = open(sys.argv[3], "r")
     for line in fo:
         line = line.strip()
-        tokens = [SOS_IDX] + [int(i) for i in line.split(" ")] + [EOS_IDX]
+        tokens = [int(i) for i in line.split(" ")]
         seq_len = len(tokens)
         if len(batch) == 0: # the first line has the maximum sequence length
             batch_len = seq_len

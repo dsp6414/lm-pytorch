@@ -2166,7 +2166,7 @@ Enter TOUCHSTONE and AUDREY; JAQUES behind
 	Truly, she must be given, or the marriage is not lawful.
 [JAQUES]
 	[Advancing]
-	Proceed, proceed	I'll give her.
+	Proceed, proceed. I'll give her.
 [TOUCHSTONE]
 	Good even, good Master What-ye-call't: how do you,
 	sir? You are very well met: God 'ild you for your
@@ -2958,7 +2958,7 @@ Enter ROSALIND and CELIA
 [CELIA]
 	Was't you that did so oft contrive to kill him?
 [OLIVER]
-	'Twas I; but 'tis not I	I do not shame
+	'Twas I; but 'tis not I. I do not shame
 	To tell you what I was, since my conversion
 	So sweetly tastes, being the thing I am.
 [ROSALIND]
@@ -3600,7 +3600,7 @@ Enter DUKE SENIOR, AMIENS, JAQUES, ORLANDO, OLIVER, and CELIA
 [DUKE SENIOR]
 	Stay, Jaques, stay.
 [JAQUES]
-	To see no pastime I	what you would have
+	To see no pastime I. What you would have
 	I'll stay to know at your abandon'd cave.
 	(Exit)
 [DUKE SENIOR]
